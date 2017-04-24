@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="JasonTest.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:JasonTest"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <Button Content="test get" Click="Button_Click_1"></Button>
+            <Button Content="test jiexi" Click="Button_Click_2"></Button>
+            <Button Content="test " Click="Button_Click_3"></Button>
+            <TextBlock Text="" x:Name="info" FontSize="25" TextWrapping="Wrap"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>
