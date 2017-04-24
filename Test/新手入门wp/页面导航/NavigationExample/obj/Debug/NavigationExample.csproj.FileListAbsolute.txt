@@ -1,0 +1,84 @@
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\Page2.xbf
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\NavigationExample.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\NavigationExample.exe
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\NavigationExample.pdb
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\NavigationExample.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\MainPage.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\MainPage.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page2.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page2.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\MainPage.xaml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page2.xaml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page2.xbf
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\NavigationExample.exe
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\NavigationExample.pdb
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\ProjectArchitectures.txt
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\bin\Debug\Page3.xbf
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page3.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page3.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page3.xaml
+c:\users\robert\documents\visual studio 2013\Projects\NavigationExample\NavigationExample\obj\Debug\Page3.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\App.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\MainPage.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\Page2.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\Page3.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\NavigationExample.xr.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\NavigationExample.exe
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\NavigationExample.pdb
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\resources.pri
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\AppxManifest.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\bin\Debug\NavigationExample.build.appxrecipe
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\MainPage.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page2.g.i.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page2.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page3.g.i.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page3.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\App.xaml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\MainPage.xaml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page2.xaml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page3.xaml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\App.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\MainPage.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page2.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\Page3.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\NavigationExample.exe
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\NavigationExample.pdb
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\priconfig.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\priconfig.xml.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\layout.resfiles
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\layout.resfiles.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\resources.resfiles
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\resources.resfiles.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\pri.resfiles
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\pri.resfiles.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\qualifiers.txt
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Administrator\Desktop\新手入门wp源码\NavigationExample\NavigationExample\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="WorkingWithAnimation.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WorkingWithAnimation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <!-- 动画   -->
+    <StackPanel>
+        <!-- 定义动画  透明度；颜色；尺寸 -->
+        <StackPanel.Resources>
+            <Storyboard x:Name="ShowStoryboard">
+                <DoubleAnimation Storyboard.TargetName="animatedImage" 
+                                 Storyboard.TargetProperty="Opacity"
+                                 From="0" 
+                                 To="1" 
+                                 Duration="0:0:2" />                
+            </Storyboard>
+            <!--Duration：时间 
+                Storyboard.TargetName：更改控件的名字
+                Storyboard.TargetProperty：更改控件的属性
+            -->
+            <Storyboard x:Name="HideStoryboard">
+                <DoubleAnimation Storyboard.TargetName="animatedImage" 
+                                 Storyboard.TargetProperty="Opacity"
+                                 From="1.0" 
+                                 To="0.0" 
+                                 Duration="0:0:2" />
+            </Storyboard>
+        </StackPanel.Resources>
+
+        <!-- 控制按钮   -->
+        <Button Name="animateButton" 
+                Content="Animate" 
+                Click="animateButton_Click" />
+        <!-- 控制按钮    Opacity="0"：不显示，1完全显示-->
+        <Image Name="animatedImage" 
+               Width="100" 
+               Opacity="0"
+               ImageOpened="animatedImage_ImageOpened"/>
+               <!--c#   ImageOpened="animatedImage_ImageOpened" 
+                        可以动态加载图片到Image里面-->
+               <!-- xaml动画 Source ="Assets/snowy.png"   -->
+    </StackPanel>
+</Page>

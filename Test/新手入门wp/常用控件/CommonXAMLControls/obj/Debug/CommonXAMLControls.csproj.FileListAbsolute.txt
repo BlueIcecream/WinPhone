@@ -1,0 +1,64 @@
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\CommonXAMLControls.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\CommonXAMLControls.exe
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\CommonXAMLControls.pdb
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\bin\Debug\CommonXAMLControls.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\MainPage.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\MainPage.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\MainPage.xaml
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\CommonXAMLControls.exe
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\CommonXAMLControls.pdb
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\CommonXAMLControls\CommonXAMLControls\obj\Debug\ProjectArchitectures.txt
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\App.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\MainPage.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\CommonXAMLControls.xr.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\CommonXAMLControls.exe
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\CommonXAMLControls.pdb
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\resources.pri
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\AppxManifest.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\bin\Debug\CommonXAMLControls.build.appxrecipe
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\MainPage.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\App.xaml
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\App.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\MainPage.xaml
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\MainPage.xbf
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\CommonXAMLControls.exe
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\CommonXAMLControls.pdb
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\priconfig.xml
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\priconfig.xml.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\layout.resfiles
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\layout.resfiles.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\resources.resfiles
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\resources.resfiles.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\pri.resfiles
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\pri.resfiles.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\qualifiers.txt
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Administrator\Desktop\新手入门wp源码\常用控件\CommonXAMLControls\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="WorkingWithAnimation.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WorkingWithAnimation"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <StackPanel.Resources>
+            <Storyboard x:Name="ShowStoryboard">
+                <DoubleAnimation Storyboard.TargetName="animatedImage" 
+                                 Storyboard.TargetProperty="Opacity"
+                                 From="0" 
+                                 To="1" 
+                                 Duration="0:0:2" />                
+            </Storyboard>
+
+            <Storyboard x:Name="HideStoryboard">
+                <DoubleAnimation Storyboard.TargetName="animatedImage" 
+                                 Storyboard.TargetProperty="Opacity"
+                                 From="1.0" 
+                                 To="0.0" 
+                                 Duration="0:0:2" />
+            </Storyboard>
+        </StackPanel.Resources>
+        
+        
+        <Button x:ConnectionId='1' Name="animateButton" 
+                Content="Animate" 
+                                            />        
+        
+        <Image x:ConnectionId='2' Name="animatedImage" 
+               Width="100" 
+               Opacity="0"
+                                                      />
+
+    </StackPanel>
+</Page>
+
